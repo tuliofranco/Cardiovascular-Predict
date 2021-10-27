@@ -1,4 +1,3 @@
-"# CaridovascularDisease-Prediction" 
 A Cadio Catch Diseases é uma empresa especializada em detecção de doenças cardíacas em estágios iniciais. O seu modelo de negócio é do tipo Serviço, ou seja, a empresa ofereço o diagnóstico precoce de uma doença cardiovascular por um certo preço.
 
 Atualmente, o diagnóstico de uma doença cardiovascular é feita manualmente por uma equipe de especialistas. A precisão atual do diagnóstico varia entre 55% e 65%, devido a complexidade do diagnóstico e também da fadiga da equipe que se revezam em turnos para minimizar os riscos. O custo de cada diagnóstico, incluindo os aparelhos e a folha de pagamento dos analistas, gira em torno de R$ 1.000,00.
@@ -11,6 +10,8 @@ O seu objetivo como o Cientista de Dados contratado pela Cardio Catch Diseases �
 
 Portanto o seu trabalho como Data Scientist é criar um ferramenta de classificação de doentes, como uma precisão estável. Junto com a ferramenta, você precisa enviar um relatório para o CEO da Cardio Catch Diseases, reportando os resultados e respondendo às seguintes perguntas: ( Ele provavelmente irá fazer essas pergunta no dia da sua apresentação. )
 
-Qual a Acurácia e a Precisão da ferramenta?
-Quanto lucro a Cardio Catch Diseases passará a ter com a nova ferramenta?
-Qual a Confiabilidade do resultado dados pela nova ferramenta?
+* Qual a Acurácia e a Precisão da ferramenta?
+* Quanto lucro a Cardio Catch Diseases passará a ter com a nova ferramenta?
+* Qual a Confiabilidade do resultado dados pela nova ferramenta?
+
+Então dê uma olhada no [projeto](https://github.com/tuliofranco/Cardiovascular-Predict/blob/master/notebook/Projeto-final.ipynb) que essas perguntas serão respondidas.
