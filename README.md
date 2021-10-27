@@ -15,3 +15,5 @@ Portanto o seu trabalho como Data Scientist é criar um ferramenta de classifica
 * Qual a Confiabilidade do resultado dados pela nova ferramenta?
 
 Então dê uma olhada no [projeto](https://github.com/tuliofranco/Cardiovascular-Predict/blob/master/notebook/Projeto-final.ipynb) que essas perguntas serão respondidas.
+
+Observação: Ao passar meu projeto da minha maquina para o github houve algumas alterações no formato, por exemplo, "\n" que naõ devia ter aparecido, mas nada que prejudique no entendimento do projeto. Desde já, me desculpe pelo imprevisto.
